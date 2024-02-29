@@ -18,3 +18,40 @@
     font-weight: bolder;
 }
 
+@media only screen and (min-width:500px) and (max-width: 800px) {
+ 
+    .Carousel .text {
+        font-size: 0.7em;
+    }
+
+    .Carousel .last-text{
+        font-size: 1.6em;
+    }
+
+    .Carousel h3{
+        font-size: 1em
+    }
+
+    .Carousel img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+
+    .Carousel .text {
+        font-size: 0.4em;
+    }
+
+    .Carousel .last-text {
+        font-size: 1.2em;
+    }
+
+    .Carousel h3 {
+        font-size: 0.9em
+    }
+
+    .Carousel img {
+        width: 100%;
+    }
+}

@@ -11,13 +11,11 @@
 }
 
 .aboutUs img {
-    height: 550px;
     width: auto;
 }
 
-.fran {
+.photo {
     display: flex;
-    justify-content: end;
 }
 
 .aboutUs .link {
