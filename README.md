@@ -1,6 +1,6 @@
 **My Book Wishlist**
 
-My Book Wishlist is a website for book enthusiasts to manage their reading preferences! Users can track whether they have already read a book, rate it, mark books they are currently reading, and add new books to their wishlist.
+Welcome to My Book Wishlist, the second project during my Bootcamp studies at Ironhack. This website is designed for book enthusiasts to manage their reading preferences. Users can track their reading progress, rate books, mark books they are currently reading, and add new books to their wishlist.
 
 **Technologies Used:**
 
