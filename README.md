@@ -1,8 +1,19 @@
-# React + Vite
+**My Book Wishlist**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My Book Wishlist is a website for book enthusiasts to manage their reading preferences! Users can track whether they have already read a book, rate it, mark books they are currently reading, and add new books to their wishlist.
 
-Currently, two official plugins are available:
+**Technologies Used:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+HTML, CSS, Javascript, React.js
+
+| HTTP verb | URL            | Request body | Action                               |
+|-----------|----------------|--------------|--------------------------------------|
+| POST      | /books         | JSON         | Add new book                         |
+| GET       | /books         |              | Returns all the books                |
+| GET       | /books/:bookId |              | Returns the specified book's details |
+| PUT       | /books/:bookId | JSON         | Edits the specified book             |
+| DELETE    | /books/:bookId |              | Deletes the specified book           |
+
+**Demo**
+
+Check it here
