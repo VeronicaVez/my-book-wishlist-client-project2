@@ -6,6 +6,7 @@ My Book Wishlist is a website for book enthusiasts to manage their reading prefe
 
 HTML, CSS, Javascript, React.js
 
+
 | HTTP verb | URL            | Request body | Action                               |
 |-----------|----------------|--------------|--------------------------------------|
 | POST      | /books         | JSON         | Add new book                         |
@@ -16,4 +17,4 @@ HTML, CSS, Javascript, React.js
 
 **Demo**
 
-Check it here
+Check it [here](https://mybookwishlist.netlify.app/).
